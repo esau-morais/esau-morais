@@ -1,6 +1,6 @@
 <samp>
 
-<img align="center" width="100%" height="100%" src="LinkedIn Cover.png">
+<img align="center" width="100%" height="100%" src="https://github.com/esau-morais/esau-morais/blob/master/LinkedIn%20Cover.png">
 
 <div align="center">
 
