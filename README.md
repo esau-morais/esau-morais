@@ -24,13 +24,16 @@
 
 ---
 
-## ➤ Projects
+## ➤ Goals
 
-[![Linktree URL](https://img.shields.io/twitter/url?color=3397d8&label=e.mmorais&logoColor=%23FFF&style=for-the-badge&url=https%3A%2F%2Fwww.twitter.com/esau_morais)](https://linktr.ee/e.mmorais)
+- [ ] Improve on ReactJS
+- [ ] Start to study TypeScript
+- [ ] Study more about AI and Data Science
+- [ ] Start freelance jobs
 
 ---
 
-## ➤ Social media
+## ➤ Wanna Talk?
 
 [![Linkedin URL](https://img.shields.io/twitter/url?color=3397d8&label=in/emmorais&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com/in/emmorais)](https://www.linkedin.com/in/emmorais)
 [![Instagram URL](https://img.shields.io/twitter/url?color=3397d8&label=esau_morais&logo=instagram&logoColor=%23FFF&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com/esau_morais)](https://www.instagram.com/esau_morais)
