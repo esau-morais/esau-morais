@@ -26,9 +26,9 @@
 
 ## ➤ Goals
 
-- [ ] Improve on ReactJS
+- [X] Study more about React Hooks
 - [ ] Start to study TypeScript
-- [ ] Study more about AI and Data Science
+- [X] Study more about AI and Data Science
 - [ ] Start freelance jobs
 
 ---
