@@ -14,13 +14,13 @@
 
 ## ➤ About me
 
-## Learning more about everything and coding
+Learning more about everything and coding
 
-## I am 15-year-old
+I am 15-year-old
 
-## I'm from Gonçalves Dias - Maranhão, Brazil. <br> And today, I'm living in Teresina - Piauí
+I'm from Gonçalves Dias - Maranhão, Brazil. <br> And today, I'm living in Teresina - Piauí
 
-## I 💜 Python, JavaScript and, mainly, ReactJS
+I 💜 Python, JavaScript and, mainly, ReactJS
 
 ---
 
@@ -29,7 +29,7 @@
 - [X] Study more about React Hooks
 - [ ] Start to study TypeScript
 - [X] Study more about AI and Data Science
-- [ ] Start freelance jobs
+- [X] Start freelance jobs
 
 ---
 
