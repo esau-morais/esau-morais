@@ -6,7 +6,7 @@
 
 ## Hi! My name is Esaú Morais and I am Front-End Developer.
 
-### Below you'll find something about me and my projects...
+Below you'll find something about me and my projects...
 
 </div>
 
@@ -27,6 +27,8 @@ I 💜 Python, JavaScript and, mainly, ReactJS
 ## ➤ Goals
 
 - [X] Study more about React Hooks
+- [ ] Study more about tests (Jest and Cypress)
+- [ ] Study more about Redux
 - [ ] Start to study TypeScript
 - [X] Study more about AI and Data Science
 - [X] Start freelance jobs
