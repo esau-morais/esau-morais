@@ -28,7 +28,7 @@ I 💜 Python, JavaScript and, mainly, ReactJS
 
 - [X] Study more about React Hooks
 - [ ] Study more about tests (Jest and Cypress)
-- [ ] Study more about Redux
+- [X] Study more about Redux
 - [ ] Start to study TypeScript
 - [X] Study more about AI and Data Science
 - [X] Start freelance jobs
