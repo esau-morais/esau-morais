@@ -27,7 +27,7 @@ I 💜 Python, JavaScript and, mainly, ReactJS
 ## ➤ Goals
 
 - [X] Study more about React Hooks
-- [ ] Study more about tests (Jest and Cypress)
+- [X] Study more about tests
 - [X] Study more about Redux
 - [ ] Start to study TypeScript
 - [X] Study more about AI and Data Science
