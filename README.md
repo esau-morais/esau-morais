@@ -4,8 +4,7 @@
 
 <div align="center">
 
-## Hi! My name is Esaú Morais and I am Front-End Developer.
-
+## Hey 👋
 Below you'll find something about me and my projects...
 
 </div>
@@ -14,13 +13,15 @@ Below you'll find something about me and my projects...
 
 ## ➤ About me
 
-Learning more about everything and coding
+💻 Learning and coding since 2019
 
-I am 15-year-old
+A 15yo guy
 
-I'm from Gonçalves Dias - Maranhão, Brazil. <br> And today, I'm living in Teresina - Piauí
+🇧🇷 Brazilian
 
-I 💜 Python, JavaScript and, mainly, ReactJS
+💜 Python and JavaScript(mainly, React.js)
+
+UX/UI amateur
 
 ---
 
