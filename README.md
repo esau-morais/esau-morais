@@ -21,6 +21,8 @@ A 15yo guy
 
 💜 Python and JavaScript(mainly, React.js)
 
+Learning TypeScript
+
 UX/UI amateur
 
 ---
@@ -30,7 +32,7 @@ UX/UI amateur
 - [X] Study more about React Hooks
 - [X] Study more about tests
 - [X] Study more about Redux
-- [ ] Start to study TypeScript
+- [X] Start to study TypeScript
 - [X] Study more about AI and Data Science
 - [X] Start freelance jobs
 
