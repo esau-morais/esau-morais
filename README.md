@@ -21,9 +21,13 @@ A 15yo guy
 
 💜 Python and JavaScript(mainly, React.js)
 
-Learning TypeScript
+🤓 Learning TypeScript
 
-UX/UI amateur
+🌱 UX/UI Design amateur
+
+🎸 Free-time: Playing guitar and trying to sing
+
+🏀 Workout: Basketball and jump rope (yes, it is a sport)
 
 ---
 
@@ -34,7 +38,6 @@ UX/UI amateur
 - [X] Study more about Redux
 - [X] Start to study TypeScript
 - [X] Study more about AI and Data Science
-- [X] Start freelance jobs
 
 ---
 
