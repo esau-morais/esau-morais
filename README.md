@@ -4,8 +4,8 @@
 
 <div align="center">
 
-## Hey 👋
-Below you'll find something about me and my projects...
+## Hello, world 👋
+Below you'll find more about me and my projects...
 
 </div>
 
@@ -31,13 +31,14 @@ A 15yo guy
 
 ---
 
-## ➤ Goals
+## ➤ Goals (2021)
 
-- [X] Study more about React Hooks
-- [X] Study more about tests
-- [X] Study more about Redux
-- [X] Start to study TypeScript
-- [X] Study more about AI and Data Science
+- [ ] Get a new laptop
+- [ ] Learn TypeScript
+- [ ] Documentate my experience
+- [ ] Stay maintaining Edite
+- [ ] Graduate on High School
+  -[ ] Software engineering university
 
 ---
 
