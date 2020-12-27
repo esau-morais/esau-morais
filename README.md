@@ -37,8 +37,7 @@ A 15yo guy
 - [ ] Learn TypeScript
 - [ ] Documentate my experience
 - [ ] Stay maintaining Edite
-- [ ] Graduate on High School
-  -[ ] Software engineering university
+- [ ] Graduate from High School
 
 ---
 
