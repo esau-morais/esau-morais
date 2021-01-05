@@ -35,7 +35,7 @@ A 15yo guy
 
 - [ ] Get a new laptop
 - [ ] Learn TypeScript
-- [ ] Documentate my experience
+- [ ] Document my experience on Hashnode
 - [ ] Stay maintaining Edite
 - [ ] Graduate from High School
 
