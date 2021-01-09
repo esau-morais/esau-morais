@@ -33,7 +33,7 @@ A 15yo guy
 
 ## ➤ Goals (2021)
 
-- [ ] Get a new laptop
+- [X] Get a new laptop
 - [ ] Learn TypeScript
 - [ ] Document my experience on Hashnode
 - [ ] Stay maintaining Edite
