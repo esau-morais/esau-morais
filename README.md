@@ -15,7 +15,7 @@ Below you'll find more about me and my projects...
 
 💻 Learning and coding since 2019
 
-A 15yo guy
+A 16yo guy
 
 🇧🇷 Brazilian
 
@@ -34,9 +34,9 @@ A 15yo guy
 ## ➤ Goals (2021)
 
 - [X] Get a new laptop
-- [ ] Learn TypeScript
-- [ ] Document my experience on Hashnode
-- [ ] Stay maintaining Edite
+- [X] Learn TypeScript
+- [ ] Learn Next.js
+- [X] Help open-source projects
 - [ ] Graduate from High School
 
 ---
