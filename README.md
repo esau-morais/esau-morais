@@ -19,9 +19,7 @@ A 16yo guy
 
 🇧🇷 Brazilian
 
-💜 Python and JavaScript(mainly, React.js)
-
-🤓 Learning TypeScript
+💜 Python // JavaScript // React.js // TypeScript
 
 🌱 UX/UI Design amateur
 
@@ -35,7 +33,7 @@ A 16yo guy
 
 - [X] Get a new laptop
 - [X] Learn TypeScript
-- [ ] Learn Next.js
+- [X] Learn Next.js
 - [X] Help open-source projects
 - [ ] Graduate from High School
 
