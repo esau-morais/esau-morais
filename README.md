@@ -35,7 +35,7 @@ A 16yo guy
 - [X] Learn TypeScript
 - [X] Learn Next.js
 - [X] Help open-source projects
-- [ ] Graduate from High School
+- [X] Graduate from High School
 
 ---
 
