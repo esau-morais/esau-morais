@@ -15,11 +15,11 @@ Below you'll find more about me and my projects...
 
 💻 Learning and coding since 2019
 
-A 16yo guy
+A 16yo dude
 
 🇧🇷 Brazilian
 
-💜 Python // JavaScript // React.js // TypeScript
+💜 Python // JavaScript // React.js // TypeScript // Next.js
 
 🌱 UX/UI Design amateur
 
@@ -29,13 +29,12 @@ A 16yo guy
 
 ---
 
-## ➤ Goals (2021)
+## ➤ Goals (2022)
 
-- [X] Get a new laptop
-- [X] Learn TypeScript
-- [X] Learn Next.js
-- [X] Help open-source projects
-- [X] Graduate from High School
+- [ ] Learn Vite and Snowpack
+- [ ] Create more projects
+- [ ] Get into university
+- [ ] Get a job
 
 ---
 
