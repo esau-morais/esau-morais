@@ -15,7 +15,7 @@ Below you'll find more about me and my projects...
 
 💻 Learning and coding since 2019
 
-A 16yo dude
+A 17yo dude
 
 🇧🇷 Brazilian
 
