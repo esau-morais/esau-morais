@@ -31,10 +31,10 @@ A 17yo dude
 
 ## ➤ Goals (2022)
 
-- [ ] Learn Vite and Snowpack
-- [ ] Create more projects
+- [X] Learn Vite and Snowpack
+- [X] Create more projects
 - [ ] Get into university
-- [ ] Get a job
+- [X] Get a job
 
 ---
 
