@@ -33,7 +33,7 @@ A 17yo dude
 
 - [X] Learn Vite and Snowpack
 - [X] Create more projects
-- [ ] Get into university
+- [X] Get into university
 - [X] Get a job
 
 ---
