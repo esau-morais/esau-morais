@@ -11,7 +11,7 @@ You'll find more about me and my projects...
 
 ## ➤ About me
 
-🧑🏻‍💻 17-year-old, Brazilian and web development lover/daily learner since 2020.
+Brazilian and web development lover/daily learner since 2020.
 
 🚀 Skill-set
 
