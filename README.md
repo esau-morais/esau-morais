@@ -21,7 +21,7 @@ Brazilian and web development lover/daily learner since 2020.
 
 ▲ TypeScript
 
-▲ Next.js,
+▲ Next.js
 
 ▲ Node.js
 
